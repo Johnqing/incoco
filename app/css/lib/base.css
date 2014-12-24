@@ -136,3 +136,7 @@ html, body, .page {
 	87% { transform: rotate(315deg); }
    90% { transform: rotate(360deg); }
 }
+
+.app-content{
+    height: 100%;
+}
